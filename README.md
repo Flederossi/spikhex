@@ -1,5 +1,5 @@
 # spikex
-A small and fast hex-dump written in pure c.
+A small, minimal and fast hex-dump written in pure c.
 
 ## Preview
 ```
