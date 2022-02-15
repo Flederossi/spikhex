@@ -17,7 +17,8 @@ int main(int argc, char *argv[]){
 	int fcc = 0;
 
 	void writeStr(){
-        	for (int i = 1; i <= mc; i++){
+        	printf("\t");
+		for (int i = 1; i <= mc; i++){
                 	if (temp[i] > 32 && temp[i] < 128){
                                 printf("%c", temp[i]);
                 	}else{
