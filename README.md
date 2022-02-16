@@ -11,10 +11,10 @@ A small, minimal and fast hex-dump written in pure c.
 
 ## Compile
 ```bash
-gcc main.c -o spikex
+gcc main.c -o spikhex
 ```
 
 ## Usage
 ```bash
-./spikex [Filename] [Number of chars per line]
+./spikhex [Filename] [Number of chars per line]
 ```
