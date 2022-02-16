@@ -1,4 +1,4 @@
-# spikex
+# spikhex
 A small, minimal and fast hex-dump written in pure c.
 
 ## Preview
